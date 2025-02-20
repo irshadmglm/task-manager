@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "homepage": "https://irshadmglm.github.io/task-manager/frontend",
+  "homepage": "https://irshadmglm.github.io/task-manager",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
